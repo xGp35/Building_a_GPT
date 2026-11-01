@@ -1,0 +1,48 @@
+Dev G Pytorch 
+
+How Neural Networks Learn - https://www.youtube.com/watch?v=bbYdqd6wemI
+Gradient Descent - https://www.youtube.com/watch?v=MECp_yVQ7ao	
+Linear Regression - https://www.youtube.com/watch?v=K9xTjTP0vVw
+Linear Regression Python Code - https://www.youtube.com/watch?v=dOeYmpS-ySw
+Training a Linear Regression Model - https://www.youtube.com/watch?v=7th6uRjtSx4
+Neural Networks in 10 mins - https://www.youtube.com/watch?v=KL2EaTs8r8I
+Intro to Pytorch - https://www.youtube.com/watch?v=SxwtCEDHXe8
+DropOut - https://www.youtube.com/watch?v=VAoYgMo4FcA
+10 min Pytorch Intro - https://www.youtube.com/watch?v=dymnJO3oBTk
+No BS Pytorch Tutorial - https://www.youtube.com/watch?v=JlTIPYmdgJg&
+10 min Training NN in Pytorch - https://www.youtube.com/watch?v=vVrASMLVBnY
+
+
+The first AI/ML algorithm you should learn - https://www.youtube.com/watch?v=jLlnmQ-Z-is
+Neural Networks in 10 Minutes - https://www.youtube.com/watch?v=KL2EaTs8r8I
+
+Image Classification of handwritten Digits - https://www.youtube.com/watch?v=0Kcem2gysXE
+Math for ML - https://www.youtube.com/watch?v=LHkOXIR60qY
+CNN Intro - https://www.youtube.com/watch?v=YTiQWGgWwPM
+Mixture of Experts - https://www.youtube.com/watch?v=KLE2R7jgfjg
+High Level Explantion of Transformers - https://www.youtube.com/watch?v=GALw4zqb-hQ
+Coding GPT Class from Scratch - https://www.youtube.com/watch?v=0Mud4IGWaIE
+Attention in LLMs - https://www.youtube.com/watch?v=6rnRvrvjYUg
+RAG - https://www.youtube.com/watch?v=DYpSk8-38LE
+K-Means - https://www.youtube.com/watch?v=2Sf7RMl6W1U
+ML 101 - https://www.youtube.com/watch?v=jcnT0RxKTP4
+
+LLM Tokenization - https://www.youtube.com/watch?v=jwmpxuMn7p4
+How LLMs learn - https://www.youtube.com/watch?v=cW7IGFdAfrM
+
+Quick Concepts:
+
+ML for SWE's - https://www.youtube.com/watch?v=3E0TZfrjZBk
+Guide to Attention - https://www.youtube.com/watch?v=sjrvs7dJOvU
+How GPT was trained - https://www.youtube.com/watch?v=nXar-vSroOI
+LSTM - https://www.youtube.com/watch?v=ix_7BaHmeGo
+RNN - https://www.youtube.com/watch?v=WHeQefDk-e8
+
+
+Quizzes
+Linear Regression - https://www.youtube.com/watch?v=GmzissXRV8s
+Math Review - https://www.youtube.com/watch?v=wbnPQjO-ofs
+CNN - https://www.youtube.com/watch?v=bCfmGeQhNzM
+Neural Networks - https://www.youtube.com/watch?v=4vQggoOU6I8
+NN Quiz 2 -https://www.youtube.com/watch?v=xZcOTAJ-h6w
+Training NN in Pytorch - https://www.youtube.com/watch?v=el2DnjJiapg
